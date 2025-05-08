@@ -1,1 +1,3 @@
-# .github
+# Seiwa
+
+Readme da Seiwa! ☘️
